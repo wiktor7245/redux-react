@@ -1,3 +1,9 @@
+# Link to tutorial
+
+https://www.digitalocean.com/community/tutorials/how-to-manage-state-in-react-with-redux
+create-react-app redux-react
+npm install --save redux react-redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
